@@ -1,6 +1,6 @@
 // vetor de objetos para os campos : descrição , nome , item e preço
 let listaCompras = []
-let listaTotal = []
+
 
 function adicionarItens() {
 
@@ -78,6 +78,4 @@ function limpar() {
   listaCompras = []
   atualizarTabela()
 }
-
-
 
